@@ -1,4 +1,4 @@
-# hey there, vex here! 🦊
+# hey there, vex here!
 
 just a dude writing serious C23 systems code in **very** unserious quantities.
 
@@ -40,4 +40,4 @@ the apps above all sit on the same stack, so it isn't N projects — it's one ec
 
 ## i have an ecosystem, you might wanna check it out → [**vexgraph-ecosystem**](https://github.com/vexgraph-ecosystem)
 
-### the constitution everything follows → [`preferences.md`](https://github.com/vexgraph-ecosystem/vexspoke/blob/main/preferences.md)
+### the constitution everything follows → [`../../preferences.md`](https://github.com/vexgraph-ecosystem/vexspoke/blob/main/preferences.md)
