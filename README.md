@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/vexgraph-header.png" alt="vexgraph" width="800">
+  <img src="resources/vexgraph.png" alt="vexgraph" width="800">
 </p>
 
 # hey! vex here! 🦊
