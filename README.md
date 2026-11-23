@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/vex-graph?tab=repositories"><img src="resources/personal-projects.png" alt="personal projects" width="19%"></a>
-  <a href="https://github.com/vexgraph-ecosystem"><img src="resources/ecosystem.png" alt="ecosystem" width="19%"></a>
+  <a href="https://github.com/vex-lib"><img src="resources/ecosystem.png" alt="ecosystem" width="19%"></a>
   <a href="https://gist.github.com/vex-graph"><img src="resources/gisthub.png" alt="gist" width="19%"></a>
-  <a href="https://github.com/vex-graph/b"><img src="resources/b.png" alt="b — build, breeze, box!" width="19%"></a>
+  <a href="https://github.com/vex-graph/b"><img src="resources/b.png" alt="b, build, breeze, box!" width="19%"></a>
   <a href="https://gist.github.com/vex-graph/4132a6c45cb6d3797c3e8eff2e94035a"><img src="resources/preferences-dot-md.png" alt="preferences.md" width="19%"></a>
 </p>
